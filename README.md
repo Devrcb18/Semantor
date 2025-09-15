@@ -50,4 +50,4 @@ This fusion lets the model differentiate between:
 Clone the repository:
 ```bash
 git clone https://github.com/Devrcb18/Semantor.git
-cd semantor
+cd Semantor
